@@ -1,0 +1,14 @@
+GET http://localhost:8000/rooms
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2017-12-18T103230.200.json
+
+###
+
+GET http://localhost:8080/rooms
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
